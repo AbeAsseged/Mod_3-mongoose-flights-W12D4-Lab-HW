@@ -23,7 +23,7 @@ class Index extends React.Component {
                     {' '}
                     is {flight.flightNo} <br></br>
                     {' '}
-                      {flight.departure}  
+                      {flight.departs}  
                     
                     
                                       <br />
